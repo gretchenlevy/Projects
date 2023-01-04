@@ -1,0 +1,2091 @@
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.41 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=8.10 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=8.08 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2005ms
+rtt min/avg/max/mdev = 6.405/7.529/8.104/0.794 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2036ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=9.04 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=7.76 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=7.95 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 7.764/8.251/9.036/0.560 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2029ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.97 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=390 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=6.38 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.381/134.539/390.273/180.830 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2047ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.15 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=7.82 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=8.69 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.149/7.554/8.691/1.055 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2052ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.61 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=42.0 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=7.93 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.612/18.844/41.989/16.374 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2041ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.36 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=8.23 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=6.83 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 6.362/7.140/8.232/0.795 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2030ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.62 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=8.21 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=6.75 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.621/7.193/8.211/0.721 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2050ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.16 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=8.02 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=9.68 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.161/7.952/9.676/1.435 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2047ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.26 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=6.29 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=28.0 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2032ms
+rtt min/avg/max/mdev = 6.255/13.529/28.039/10.260 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2046ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.35 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=7.98 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=8.06 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.350/7.463/8.060/0.788 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2028ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.56 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=106 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=352 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.556/154.970/352.132/145.230 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2053ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.28 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=6.62 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=6.44 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.282/6.447/6.624/0.139 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2043ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.44 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=8.21 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=8.07 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.435/7.571/8.209/0.805 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2034ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.50 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=45.4 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=76.1 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 6.500/42.669/76.118/28.486 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2025ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.48 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=9.36 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=8.08 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.475/7.970/9.359/1.179 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2066ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.45 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=7.97 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=7.92 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.449/7.444/7.969/0.704 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2036ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.14 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=44.3 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=6.73 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 6.141/19.063/44.316/17.858 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2053ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=6.05 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=7.82 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=6.86 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 6.050/6.910/7.821/0.723 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.75.2 icmp_seq=1 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=2 Destination Host Unreachable
+From 169.226.75.2 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2030ms
+pipe 3
+PING google.com (142.251.40.174) 56(84) bytes of data.
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=1 ttl=63 time=5.95 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=2 ttl=63 time=8.21 ms
+64 bytes from lga25s81-in-f14.1e100.net (142.251.40.174): icmp_seq=3 ttl=63 time=8.46 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2008ms
+rtt min/avg/max/mdev = 5.954/7.538/8.455/1.125 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2030ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.12 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.69 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.10 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.116/7.637/8.693/1.102 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2047ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.59 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.99 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.30 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.297/6.958/7.989/0.738 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2013ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.36 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.13 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.37 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.130/6.286/6.372/0.110 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2024ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.37 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.09 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.09 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.369/7.514/8.087/0.809 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2050ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=23.5 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=36.7 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=23.7 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 23.530/27.990/36.725/6.177 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2045ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.47 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.70 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.98 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.474/7.717/8.702/0.927 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2026ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.09 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.39 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.12 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.091/7.533/8.386/1.025 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2049ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=7.10 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.49 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.64 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 7.103/7.411/7.638/0.225 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2029ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.54 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.67 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.38 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.536/7.196/8.378/0.837 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2031ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.36 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.19 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.41 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.356/6.986/8.193/0.853 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2041ms
+
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.42 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.08 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.09 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.416/7.526/8.086/0.784 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2030ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.35 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.95 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.32 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.323/6.875/7.953/0.762 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2026ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.28 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.47 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.40 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.283/6.383/6.468/0.076 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2004ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.33 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.50 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.96 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.334/7.265/7.959/0.684 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.47 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.65 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.89 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2007ms
+rtt min/avg/max/mdev = 6.471/7.002/7.889/0.630 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2047ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.36 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.90 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.34 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 6.358/7.200/7.901/0.637 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2047ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.32 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.35 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.39 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.315/7.017/8.346/0.939 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2046ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=7.30 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.91 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.24 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 7.295/7.816/8.244/0.393 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2027ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.32 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.13 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=12.7 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.323/9.055/12.713/2.689 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2049ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.31 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.58 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.14 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.311/7.342/8.136/0.763 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2030ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.38 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.99 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=12.1 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.383/8.811/12.059/2.388 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.53 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.11 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.18 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.184/6.940/8.105/0.835 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2035ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.16 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.25 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.63 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.162/6.681/7.634/0.674 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2023ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.69 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.07 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.21 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.212/6.990/8.071/0.788 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2051ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=9.11 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.53 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.11 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.532/7.918/9.112/1.061 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2027ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=10.4 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.23 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=10.9 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.227/9.187/10.937/2.104 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2016ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.26 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.90 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=9.10 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.257/7.752/9.098/1.164 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2054ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.36 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.03 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.73 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.361/7.373/8.029/0.725 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2037ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.11 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.59 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.21 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.105/7.300/8.205/0.881 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2006ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.16 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.90 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.76 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.163/7.273/7.897/0.787 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2004ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.40 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.50 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.35 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.398/7.747/8.498/0.955 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2035ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.18 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.98 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.03 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.184/7.396/8.028/0.857 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2020ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=7.69 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.19 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.86 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 7.689/7.909/8.185/0.206 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2022ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.46 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.81 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.02 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.458/7.430/8.021/0.692 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2051ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.32 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.09 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=12.5 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 6.315/8.968/12.496/2.598 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2043ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.38 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.89 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.94 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.381/7.404/7.939/0.724 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2064ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.03 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.00 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.32 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.028/7.449/8.324/1.013 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2041ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.53 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.22 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.47 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.471/7.072/8.220/0.812 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2043ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=12.3 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.76 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.59 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.591/8.882/12.298/2.461 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2043ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.41 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.78 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.22 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.218/6.467/6.778/0.232 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2005ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.21 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.01 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.55 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 6.210/6.924/8.008/0.779 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2035ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.50 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.96 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.34 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.343/6.934/7.962/0.729 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2033ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.35 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.30 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.02 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.345/7.554/8.296/0.862 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2028ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=11.6 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.03 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.82 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 7.034/8.833/11.643/2.012 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2037ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.47 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.09 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.67 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.473/7.746/8.671/0.930 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2025ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.14 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.60 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.61 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.135/7.113/7.606/0.691 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2048ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.30 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.19 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.87 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 6.299/7.119/8.193/0.793 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2018ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.28 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.95 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.18 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.279/7.469/8.180/0.846 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2028ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.46 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.09 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.01 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.464/7.519/8.089/0.747 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2002ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.23 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.04 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.24 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2080ms
+rtt min/avg/max/mdev = 6.043/6.167/6.235/0.088 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2055ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.25 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.44 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.13 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.247/6.939/8.131/0.846 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2054ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.30 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.89 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=11.4 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.297/8.519/11.368/2.116 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.49 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=11.9 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.18 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.486/8.851/11.893/2.258 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2035ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.66 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.96 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=9.24 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.661/7.953/9.240/1.052 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2040ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.30 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.85 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.64 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.300/7.264/7.851/0.687 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2051ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.88 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.85 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.53 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.881/7.752/8.530/0.676 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2005ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=7.28 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.72 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=11.0 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 7.281/8.999/10.995/1.528 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2053ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.00 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.19 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.73 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 5.995/7.305/8.190/0.945 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2053ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.75 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.78 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.27 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.748/7.934/8.782/0.864 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2032ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.22 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.31 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.09 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.224/7.541/8.314/0.935 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2031ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.35 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.54 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.82 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.346/7.568/8.535/0.911 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2053ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.23 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.65 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.25 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.226/7.377/8.252/0.849 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2031ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.33 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=9.42 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.67 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2006ms
+rtt min/avg/max/mdev = 6.325/8.138/9.422/1.318 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2047ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.38 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.45 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.42 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.381/7.082/8.449/0.966 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2045ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.49 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=12.6 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.26 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.492/9.102/12.557/2.546 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2040ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.16 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=41.3 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.09 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.162/18.526/41.326/16.140 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2007ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.49 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=10.2 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.12 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.489/8.271/10.208/1.522 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2053ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.12 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.76 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.77 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.118/7.214/7.769/0.775 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2019ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.44 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.56 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.34 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 6.443/7.113/8.339/0.867 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2035ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.53 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.69 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.14 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.533/7.120/8.144/0.726 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2016ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=7.18 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.67 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.88 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 7.181/7.577/7.883/0.293 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2048ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=15.7 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=10.1 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=13.4 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 10.136/13.105/15.734/2.298 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2044ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=7.80 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=10.8 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.06 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 7.802/8.873/10.761/1.338 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2024ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.22 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.73 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.19 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.215/7.379/8.189/0.844 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2027ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.28 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.10 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.90 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.275/7.425/8.098/0.817 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2024ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.75 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.29 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.56 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.748/7.865/8.558/0.797 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2014ms
+pipe 2
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.67 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.00 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.81 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.672/7.159/7.995/0.593 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2056ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.06 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=17.2 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=9.69 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.062/10.989/17.216/4.645 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2052ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.54 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.67 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.47 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.471/6.558/6.668/0.081 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=8.49 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.63 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.34 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 8.336/8.484/8.627/0.118 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2025ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=8.91 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=9.46 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=17.2 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 8.905/11.846/17.173/3.773 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2032ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=6.51 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=6.85 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=29.1 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.513/14.166/29.137/10.586 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2053ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=34.1 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=10.9 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=8.48 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 8.475/17.829/34.097/11.546 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2048ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=6.50 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=8.43 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=6.26 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.259/7.061/8.429/0.971 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2047ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=6.46 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=8.28 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=7.04 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.457/7.255/8.275/0.758 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2036ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=6.32 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=8.10 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=8.00 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.316/7.471/8.095/0.817 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2026ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=6.64 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=8.79 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=8.08 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.638/7.835/8.790/0.895 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2045ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=6.71 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=27.7 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=8.25 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.705/14.228/27.732/9.569 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2033ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=6.31 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=8.32 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=8.09 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.305/7.571/8.315/0.899 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2025ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=6.05 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=8.85 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=8.14 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.045/7.676/8.845/1.188 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2053ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=6.18 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=15.3 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=8.16 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.179/9.882/15.312/3.923 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2033ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=6.43 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=7.90 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=8.52 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.426/7.614/8.519/0.877 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2050ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=6.09 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=8.98 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=6.58 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.091/7.219/8.983/1.263 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2043ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=7.35 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=8.35 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=8.64 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 7.354/8.115/8.638/0.550 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2007ms
+pipe 2
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=10.6 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=8.17 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=8.11 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 8.105/8.949/10.569/1.145 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2032ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=7.89 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=2 ttl=63 time=7.95 ms
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=3 ttl=63 time=6.50 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.500/7.446/7.946/0.669 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2041ms
+pipe 3
+PING google.com (142.250.65.174) 56(84) bytes of data.
+64 bytes from lga25s71-in-f14.1e100.net (142.250.65.174): icmp_seq=1 ttl=63 time=6.14 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 1 received, 66.6667% packet loss, time 2029ms
+rtt min/avg/max/mdev = 6.144/6.144/6.144/0.000 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2037ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.63 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=159 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=99.7 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 6.626/88.301/158.536/62.542 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2045ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.09 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.14 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.87 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.085/6.699/7.869/0.827 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2039ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.37 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=59.5 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.77 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.367/24.211/59.501/24.953 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2053ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.14 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=7.84 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.70 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.142/6.893/7.836/0.704 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2041ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.63 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.18 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.33 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.628/7.710/8.327/0.767 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2029ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.52 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.61 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=56.1 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.520/23.072/56.088/23.345 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2024ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.52 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.56 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.09 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.517/7.058/8.094/0.732 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2038ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=10.6 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=9.12 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.84 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.838/8.844/10.579/1.539 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2027ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.79 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.08 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.59 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.589/7.151/8.077/0.659 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2047ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.28 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.22 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.30 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.278/6.932/8.221/0.911 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2051ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.74 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=13.7 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.94 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.742/9.463/13.708/3.040 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2029ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.55 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=6.66 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=6.47 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.472/6.561/6.658/0.076 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2052ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.31 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.35 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.81 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.314/7.493/8.354/0.862 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2024ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.55 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.02 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=8.09 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 6.551/7.551/8.087/0.707 ms
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+From 169.226.240.3 icmp_seq=1 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=2 Destination Host Unreachable
+From 169.226.240.3 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.1.1 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2055ms
+pipe 3
+PING google.com (172.217.165.142) 56(84) bytes of data.
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=1 ttl=63 time=6.13 ms
+64 bytes from lax30s03-in-f14.1e100.net (172.217.165.142): icmp_seq=2 ttl=63 time=8.06 ms
+64 bytes from lga25s70-in-f14.1e100.net (172.217.165.142): icmp_seq=3 ttl=63 time=7.59 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 6.134/7.261/8.057/0.819 ms
